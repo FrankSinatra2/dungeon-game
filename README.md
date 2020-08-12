@@ -1,5 +1,9 @@
 # Game Design Document
 
+# Theme 
+
+Cyberpunk
+
 # Core
 
 You are an Adventurer.
@@ -12,7 +16,7 @@ Looting as much as you can.
 
 * Explore and Loot a deep Dungeon.
 
-* Gather Loot spread throughout the Dungeon.
+* Fill your Bag with Loot gathered throughout a Dungeon.
 
 * Compete with other Adventurers gather Loot.
 
@@ -28,19 +32,6 @@ Looting as much as you can.
 
 * Progress your Adventurer by having your Loot appraised for EXP.
 
-
-# Terms to Define
-* Adventure
-* Dungeon
-* Monster
-* Loot
-* Weapon
-* Fight
-* Explore
-* Stats, Health, and Stamina
-* Tool
-* EXP
-
 # Core Loop
 
 1. Scour the current Dungeon layer for a path to go deeper, all while engaging with Monsters and other Adventurers. 
@@ -49,3 +40,37 @@ Looting as much as you can.
 4. Go deeper into the Dungeon.
 5. GOTO 1
 
+
+# Terms to Define
+* Adventurer
+* Bag
+* Dungeon
+* Monster
+* Loot
+* Navigation
+* Weapon
+* Fight
+* Stats, Health, and Stamina
+* Tool
+* EXP
+
+
+# Mechanics
+
+## Character Development
+* Adventurer
+* Stats, Health, and Stamina
+* EXP
+
+## Dungeon Exploration
+* Dungeon
+* Tools
+* Navigation
+
+## Looting
+* Loot
+
+## Combat
+* Fight
+* Weapons
+* Monster

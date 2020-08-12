@@ -1,0 +1,4 @@
+# prototype ignores
+node_modules/
+elm-stuff/
+rules-prototype/build/
